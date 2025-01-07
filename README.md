@@ -1,12 +1,12 @@
-# ensarduman.github.io
-
-<img src="assets/logo2.jpg" alt="Ensar Duman Logo" width="200">
+<div style="text-align: center;">
+    <img src="assets/logo.jpg" alt="Ensar Duman Logo" width="300">
+</div>
 
 ## About Me
 
-A visionary engineer specializing in innovative software solutions and project management. 🚀
+Hi, I’m Ensar Duman – a visionary engineer passionate about crafting cutting-edge software solutions and driving impactful projects. With over 11 years of experience in software development, technical leadership, and project management, I bring a wealth of expertise to the table.
 
-I am Ensar Duman, and I develop applications. Currently, I have a mobile application called Color Matcher.
+Throughout my career, I have successfully contributed to a diverse range of projects, from initial development to deployment, taking on roles as a hands-on developer and a strategic technical leader. My core strengths lie in .NET, Flutter, and React.js, but I’ve also proven my adaptability by mastering technologies like PHP, Python, and Django.
 
 ## Color Matcher
 
@@ -24,5 +24,5 @@ How high can you score before the time runs out? Play now and find out! 🎨✨
 
 ### Screenshots
 
-<img src="assets/color_matcher/ss1.png" alt="Screenshot 1" width="300">
-<img src="assets/color_matcher/ss2.png" alt="Screenshot 2" width="300">
+<img src="assets/color_matcher/ss1.png" alt="Color Matcher Launch" width="300">
+<img src="assets/color_matcher/ss2.png" alt="Color Matcher Game Play" width="300">
