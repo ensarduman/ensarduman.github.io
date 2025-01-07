@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="assets/logo.jpg" alt="Ensar Duman Logo" width="300">
+    <img src="assets/logo.png" alt="Ensar Duman Logo" width="300" style="border-radius: 50%; background-color: white;">
 </div>
 
 ## About Me
