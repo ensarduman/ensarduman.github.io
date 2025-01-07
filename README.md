@@ -10,7 +10,7 @@ I am Ensar Duman, and I develop applications. Currently, I have a mobile applica
 
 ## Color Matcher
 
-![Color Matcher Logo](assets/color_matcher.png)
+![Color Matcher Logo](assets/color_matcher/logo.png)
 
 **Short Description:** Match the color name to the correct block before time runs out! 🎨✨
 
@@ -21,3 +21,8 @@ I am Ensar Duman, and I develop applications. Currently, I have a mobile applica
 - The timer adds to the challenge—act quickly!
 
 How high can you score before the time runs out? Play now and find out! 🎨✨
+
+### Screenshots
+
+![Screenshot 1](assets/color_matcher/ss1.jpg)
+![Screenshot 2](assets/color_matcher/ss2.jpg)
