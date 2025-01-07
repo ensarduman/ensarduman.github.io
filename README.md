@@ -32,6 +32,6 @@ How high can you score before the time runs out? Play now and find out! 🎨✨
 <a href="https://play.google.com/store/apps/details?id=com.ensarduman.color_matcher" target="_blank" style="margin-right: 20px;">
     <img src="assets/googleplay.png" alt="Google Play" width="150">
 </a>
-<a href="#" target="_blank">
+<a href="#">
     <img src="assets/appstore.png" alt="App Store" width="150">
 </a>
