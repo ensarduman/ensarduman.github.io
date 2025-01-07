@@ -24,5 +24,5 @@ How high can you score before the time runs out? Play now and find out! 🎨✨
 
 ### Screenshots
 
-![Screenshot 1](assets/color_matcher/ss1.jpg)
-![Screenshot 2](assets/color_matcher/ss2.jpg)
+![Screenshot 1](assets/color_matcher/ss1.png)
+![Screenshot 2](assets/color_matcher/ss2.png)
