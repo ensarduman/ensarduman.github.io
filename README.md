@@ -1,6 +1,6 @@
 # ensarduman.github.io
 
-![Ensar Duman Logo](assets/logo2.jpg)
+<img src="assets/logo2.jpg" alt="Ensar Duman Logo" width="200">
 
 ## About Me
 
@@ -10,7 +10,7 @@ I am Ensar Duman, and I develop applications. Currently, I have a mobile applica
 
 ## Color Matcher
 
-![Color Matcher Logo](assets/color_matcher/logo.png)
+<img src="assets/color_matcher/logo.png" alt="Color Matcher Logo" width="200">
 
 **Short Description:** Match the color name to the correct block before time runs out! 🎨✨
 
@@ -24,5 +24,5 @@ How high can you score before the time runs out? Play now and find out! 🎨✨
 
 ### Screenshots
 
-![Screenshot 1](assets/color_matcher/ss1.png)
-![Screenshot 2](assets/color_matcher/ss2.png)
+<img src="assets/color_matcher/ss1.png" alt="Screenshot 1" width="300">
+<img src="assets/color_matcher/ss2.png" alt="Screenshot 2" width="300">
