@@ -8,6 +8,15 @@ Hi, I’m Ensar Duman – a visionary engineer passionate about crafting cutting
 
 Throughout my career, I have successfully contributed to a diverse range of projects, from initial development to deployment, taking on roles as a hands-on developer and a strategic technical leader. My core strengths lie in .NET, Flutter, and React.js, but I’ve also proven my adaptability by mastering technologies like PHP, Python, and Django.
 
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/ensarduman/" target="_blank" style="margin-right: 20px;">
+        <img src="assets/linkedin.png" alt="LinkedIn Profile" width="40">
+    </a>
+    <a href="https://www.instagram.com/ensarduman/" target="_blank">
+        <img src="assets/instagram.png" alt="Instagram Profile" width="40">
+    </a>
+</div>
+
 ## Color Matcher
 
 <img src="assets/color_matcher/logo.png" alt="Color Matcher Logo" width="200">
