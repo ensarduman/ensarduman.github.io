@@ -26,3 +26,12 @@ How high can you score before the time runs out? Play now and find out! 🎨✨
 
 <img src="assets/color_matcher/ss1.png" alt="Color Matcher Launch" width="300">
 <img src="assets/color_matcher/ss2.png" alt="Color Matcher Game Play" width="300">
+
+### Download
+
+<a href="https://play.google.com/store/apps/details?id=com.ensarduman.color_matcher" target="_blank" style="margin-right: 20px;">
+    <img src="assets/googleplay.png" alt="Google Play" width="150">
+</a>
+<a href="#" target="_blank">
+    <img src="assets/appstore.png" alt="App Store" width="150">
+</a>
