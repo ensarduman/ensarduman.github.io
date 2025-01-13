@@ -20,15 +20,13 @@ Throughout my career, I have successfully contributed to a diverse range of proj
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/ensarduman rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-135e025c-9693-42f4-9601-d7c3320958ab' itemprop='contentURL' style='display: none;'></div>
+     <div class='fiverr-seller-content' id='fiverr-seller-widget-content-135e025c-9693-42f4-9601-d7c3320958ab' itemprop='contentURL' style='display: none;'></div>
         <div id='fiverr-widget-seller-data' style='display: none;'>
             <div itemprop='name' >ensarduman</div>
             <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
             <div itemprop='jobtitle'>Seller</div>
             <div itemprop='description'>Hi, I am Ensar Duman I am a software engineer with 11 years of experience in development technical leadership and project management I specialize in NET Flutter and Reactjs while also excelling in Python Django and PHP From initial development to deployment I have led diverse impactful projects as both a hands-on developer and strategic leader My passion lies in crafting innovative software solutions that deliver measurable results and drive meaningful impact</div>
         </div>
-    </a>
 </div>
 
 <script id='fiverr-seller-widget-script-135e025c-9693-42f4-9601-d7c3320958ab' src='https://widgets.fiverr.com/api/v1/seller/ensarduman?widget_id=135e025c-9693-42f4-9601-d7c3320958ab' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
