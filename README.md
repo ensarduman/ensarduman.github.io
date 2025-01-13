@@ -12,8 +12,11 @@ Throughout my career, I have successfully contributed to a diverse range of proj
     <a href="https://www.linkedin.com/in/ensarduman/" target="_blank" style="margin-right: 20px;">
         <img src="assets/linkedin.png" alt="LinkedIn Profile" width="40">
     </a>
-    <a href="https://www.instagram.com/ensarduman/" target="_blank">
+    <a href="https://www.instagram.com/ensarduman/" target="_blank" style="margin-right: 20px;">
         <img src="assets/instagram.png" alt="Instagram Profile" width="40">
+    </a>
+    <a href="https://www.fiverr.com/ensarduman" target="_blank">
+        <img src="assets/fiverr.png" alt="Fiverr Profile" width="40">
     </a>
 </div>
 
