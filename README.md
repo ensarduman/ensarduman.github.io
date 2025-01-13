@@ -33,7 +33,6 @@ Throughout my career, I have successfully contributed to a diverse range of proj
 
 <script id='fiverr-seller-widget-script-135e025c-9693-42f4-9601-d7c3320958ab' src='https://widgets.fiverr.com/api/v1/seller/ensarduman?widget_id=135e025c-9693-42f4-9601-d7c3320958ab' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
-
 ## Color Matcher
 
 <img src="assets/color_matcher/logo.png" alt="Color Matcher Logo" width="200">
