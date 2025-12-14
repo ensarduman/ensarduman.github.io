@@ -1,3 +1,11 @@
+---
+layout: default
+title: Ensar Duman - Software Engineer & Founder of Detartech
+description: Software Engineer with 13+ years experience. Founder of Detartech. Expert in .NET, Flutter, React.js, Python, and mobile app development.
+keywords: Ensar Duman, Software Engineer, .NET Developer, Flutter Developer, React.js, Mobile App Development, Detartech, Color Matcher
+image: /assets/ensarduman.png
+---
+
 <div style="text-align: center;">
     <img src="assets/ensarduman.png" alt="Ensar Duman - Software Engineer" width="200" style="border-radius: 50%; margin-bottom: 20px;">
     <h1 style="font-family: 'Georgia', serif; font-weight: 300; letter-spacing: 2px; color: #333; margin-top: 10px;">Ensar Duman</h1>

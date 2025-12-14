@@ -1,0 +1,26 @@
+title: Ensar Duman - Software Engineer & Founder
+description: Software Engineer with 13+ years experience. Founder of Detartech. Expert in .NET, Flutter, React.js, Python, and mobile app development.
+author: Ensar Duman
+url: https://ensarduman.com
+baseurl: ""
+
+# SEO settings
+lang: en
+twitter:
+  username: ensarduman
+  card: summary_large_image
+
+social:
+  name: Ensar Duman
+  links:
+    - https://www.linkedin.com/in/ensarduman/
+    - https://www.instagram.com/ensarduman/
+    - https://github.com/ensarduman
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Theme (optional)
+theme: minima
