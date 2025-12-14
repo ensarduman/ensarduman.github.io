@@ -15,35 +15,7 @@ Throughout my career, I have successfully contributed to a diverse range of proj
     <a href="https://www.instagram.com/ensarduman/" target="_blank" style="margin-right: 20px;">
         <img src="assets/instagram.png" alt="Instagram Profile" width="40">
     </a>
-    <a href="https://www.fiverr.com/ensarduman" target="_blank">
-        <img src="assets/fiverr.png" alt="Fiverr Profile" width="40">
+    <a href="https://www.detartech.com?utm_source=ensarduman.com&utm_medium=referral&utm_campaign=profile&ref=ensarduman" target="_blank">
+        <img src="assets/detartech.png" alt="Detartech" width="55">
     </a>
 </div>
-
-## Color Matcher
-
-<img src="assets/color_matcher/logo.png" alt="Color Matcher Logo" width="200">
-
-**Short Description:** Match the color name to the correct block before time runs out! 🎨✨
-
-**Full Description:** Test your reflexes and color recognition skills with Color Matcher! In this fast-paced game, you'll be shown the name of a color at the top of the screen, while two color blocks appear below. Click the correct color that matches the name, but be careful—the text color will try to trick you!
-
-- Earn points for every correct choice.
-- Lose points for wrong answers.
-- The timer adds to the challenge—act quickly!
-
-How high can you score before the time runs out? Play now and find out! 🎨✨
-
-### Screenshots
-
-<img src="assets/color_matcher/ss1.png" alt="Color Matcher Launch" width="300">
-<img src="assets/color_matcher/ss2.png" alt="Color Matcher Game Play" width="300">
-
-### Download
-
-<a href="https://play.google.com/store/apps/details?id=com.ensarduman.color_matcher" target="_blank" style="margin-right: 20px;">
-    <img src="assets/googleplay.png" alt="Google Play" width="150">
-</a>
-<a href="#">
-    <img src="assets/appstore.png" alt="App Store" width="150">
-</a>
