@@ -8,7 +8,7 @@
 
 Hi, I'm Ensar Duman – a software engineer passionate about crafting innovative solutions and delivering impactful projects. With over 13 years of experience in software development, technical leadership, and project management, I specialize in building scalable applications and leading development teams.
 
-I am the founder of [Detartech](https://www.detartech.com?utm_source=ensarduman.com&utm_medium=referral&utm_campaign=profile&ref=ensarduman), established in 2024, where we deliver custom technology solutions for businesses.
+I am the founder of [Detartech](https://detartech.com/?utm_source=ensarduman.com&utm_medium=referral&utm_campaign=profile&ref=ensarduman), established in 2024, where we deliver custom technology solutions for businesses.
 
 Throughout my career, I have successfully contributed to diverse projects from initial development to deployment, taking on roles as a hands-on developer and strategic technical leader. My expertise includes .NET, Flutter, React.js, Python, Django, and PHP.
 
@@ -19,7 +19,7 @@ Throughout my career, I have successfully contributed to diverse projects from i
     <a href="https://www.instagram.com/ensarduman/" target="_blank" style="margin-right: 20px;">
         <img src="assets/instagram.png" alt="Instagram Profile" width="40">
     </a>
-    <a href="https://www.detartech.com?utm_source=ensarduman.com&utm_medium=referral&utm_campaign=profile&ref=ensarduman" target="_blank">
+    <a href="https://detartech.com/?utm_source=ensarduman.com&utm_medium=referral&utm_campaign=profile&ref=ensarduman" target="_blank">
         <img src="assets/detartech.png" alt="Detartech" width="55">
     </a>
 </div>
